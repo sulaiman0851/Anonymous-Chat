@@ -1,1 +1,1 @@
-web: php -S localhost:3000
+worker: php -S localhost:3000
